@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+With nearly a decade of experience in IT, I’m on an exciting journey to pivot into cybersecurity. My goal is to transition from IT support to become a skilled SOC analyst. Here, I'll be sharing my cybersecurity projects, showcasing my skills, and documenting my progress as I build a strong foundation in security operations and threat analysis
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
