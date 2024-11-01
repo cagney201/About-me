@@ -1,7 +1,7 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Cagney
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 With nearly a decade of experience in IT, I’m on an exciting journey to pivot into cybersecurity. My goal is to transition from IT support to become a skilled SOC analyst. Here, I'll be sharing my cybersecurity projects, showcasing my skills, and documenting my progress as I build a strong foundation in security operations and threat analysis
 
